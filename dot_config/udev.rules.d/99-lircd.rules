@@ -1,0 +1,2 @@
+SUBSYSTEM=="lirc", DRIVERS=="lirc_rpi", ENV{lircd_driver}="default",  ENV{lircd_conf}="/storage/.config/lircd.conf"
+

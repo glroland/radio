@@ -1,0 +1,31 @@
+<keymap>
+  <global>
+    <remote>
+
+                <mymusic>FirstPage</mymusic>
+		<info>LastPage</info>
+		<playlist>PlayList</playlist>
+		<up>Up</up>
+		<left>Left</left>
+		<down>Down</down>
+		<right>Right</right>
+		<select>Select</select>
+		<back>Back</back>
+		<guide>ContextMenu</guide>
+		<pageplus>PageUp</pageplus>
+		<pageminus>PageDown</pageminus>
+		<volumeplus>VolumeUp</volumeplus>
+		<volumeminus>VolumeDown</volumeminus>
+		<mute>Mute</mute>
+		<reverse>Rewind</reverse>
+		<play>PlayPause</play>
+		<forward>FastForward</forward>
+		<stop>Stop</stop>
+		<skipminus>SkipPrevious</skipminus>
+		<skipplus>SkipNext</skipplus>
+
+    </remote>
+  </global>
+</keymap>
+
+

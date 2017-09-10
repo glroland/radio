@@ -1,0 +1,30 @@
+<lircmap>
+        <remote device="devinput">
+
+                <mymusic>KEY_HOME</mymusic>
+		<info>KEY_LIST</info>
+		<playlist>KEY_MENU</playlist>
+		<up>KEY_UP</up>
+		<left>KEY_LEFT</left>
+		<down>KEY_DOWN</down>
+		<right>KEY_RIGHT</right>
+		<select>KEY_SELECT</select>
+		<back>KEY_BACK</back>
+		<guide>KEY_ROOT_MENU</guide>
+		<pageplus>KEY_PAGEUP</pageplus>
+		<pageminus>KEY_PAGEDOWN</pageminus>
+		<volumeplus>KEY_VOLUMEUP</volumeplus>
+		<volumeminus>KEY_VOLUMEDOWN</volumeminus>
+		<mute>KEY_MUTE</mute>
+		<reverse>KEY_REWIND</reverse>
+		<play>KEY_PLAYPAUSE</play>
+		<forward>KEY_FORWARD</forward>
+		<stop>KEY_STOP</stop>
+		<skipminus>KEY_PREVIOUS</skipminus>
+		<skipplus>KEY_NEXT</skipplus>
+
+        </remote>
+ </lircmap>
+
+
+
